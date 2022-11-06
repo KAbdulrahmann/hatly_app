@@ -1,5 +1,5 @@
 # hatly_app
-this is my graduation project 2020 with ( Excellent Degre) .
+this is my graduation project 2020 with ( Excellent Degree) .
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/58075058/200170182-76d8c361-72b3-4edf-80d1-204e216e93cf.png)
 ![1](https://user-images.githubusercontent.com/58075058/200170318-118186f8-fb65-4d64-8eda-3d54f783a1fc.png)
